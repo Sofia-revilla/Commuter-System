@@ -1,0 +1,10 @@
+Check,Result
+Selected records before cleaning,12815
+Missing cell values,0
+Exact duplicate rows,0
+Logical duplicate rows,0
+Negative values,0
+Passenger activity with zero trips,1
+Source-absent date-stop-hour combinations,235
+Unavailable combinations after cleaning,236
+Final cleaned records,12814

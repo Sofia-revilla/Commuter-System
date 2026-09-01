@@ -1,0 +1,9 @@
+Stage,Records
+Full MTA dataset,155387648
+2025 only,92202449
+2025 + M66,165888
+2025 + M66 + Eastbound,86959
+Weekdays only,64531
+Study hours only,35372
+Selected stop sequences 6-10,12815
+Final cleaned selected dataset,12814
